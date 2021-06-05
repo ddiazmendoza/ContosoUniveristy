@@ -44,7 +44,7 @@ namespace ContosoUniversity
                 catch (Exception ex)
                 {
                     var logger = services.GetRequiredService<ILogger<Program>>();
-                    logger.LogError(ex, "An error occurred creating the DB.");
+                    logger.LogError(ex, "Hubo un error al crear la base de datos.");
                 }
             }
         }
