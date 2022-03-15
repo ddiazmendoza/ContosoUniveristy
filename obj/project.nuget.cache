@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Md5LeMLcL9vFBNF14XxJZder9T1jcA1RSprjcwH5ngFuF/98eSHHaBAgHjBNknDeFaoJz9+8b+8c0kFnm6iotg==",
+  "dgSpecHash": "i/d7tiGrSudHnysS/tTOUsNo9NMIZI5HEh3RcdLWyLNIvO1CDPjNdORoOCr7qWAXMz+cDduvECmsIsO3AwqPeA==",
   "success": true,
   "projectFilePath": "C:\\Users\\d_dia\\source\\repos\\ContosoUniversity\\ContosoUniversity.csproj",
   "expectedPackageFiles": [
@@ -128,7 +128,8 @@
     "C:\\Users\\d_dia\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\d_dia\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\d_dia\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\d_dia\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\d_dia\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\d_dia\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
   ],
   "logs": []
 }

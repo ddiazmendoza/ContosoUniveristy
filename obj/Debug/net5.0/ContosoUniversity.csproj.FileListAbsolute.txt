@@ -5,7 +5,6 @@ C:\Users\d_dia\source\repos\ContosoUniversity\bin\Debug\net5.0\ContosoUniversity
 C:\Users\d_dia\source\repos\ContosoUniversity\bin\Debug\net5.0\ContosoUniversity.runtimeconfig.json
 C:\Users\d_dia\source\repos\ContosoUniversity\bin\Debug\net5.0\ContosoUniversity.runtimeconfig.dev.json
 C:\Users\d_dia\source\repos\ContosoUniversity\bin\Debug\net5.0\ContosoUniversity.dll
-C:\Users\d_dia\source\repos\ContosoUniversity\bin\Debug\net5.0\ref\ContosoUniversity.dll
 C:\Users\d_dia\source\repos\ContosoUniversity\bin\Debug\net5.0\ContosoUniversity.pdb
 C:\Users\d_dia\source\repos\ContosoUniversity\bin\Debug\net5.0\ContosoUniversity.Views.dll
 C:\Users\d_dia\source\repos\ContosoUniversity\bin\Debug\net5.0\ContosoUniversity.Views.pdb
@@ -125,7 +124,6 @@ C:\Users\d_dia\source\repos\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity
 C:\Users\d_dia\source\repos\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.RazorAssemblyInfo.cache
 C:\Users\d_dia\source\repos\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.RazorAssemblyInfo.cs
 C:\Users\d_dia\source\repos\ContosoUniversity\obj\Debug\net5.0\staticwebassets\ContosoUniversity.StaticWebAssets.Manifest.cache
-C:\Users\d_dia\source\repos\ContosoUniversity\obj\Debug\net5.0\staticwebassets\ContosoUniversity.StaticWebAssets.xml
 C:\Users\d_dia\source\repos\ContosoUniversity\obj\Debug\net5.0\scopedcss\bundle\ContosoUniversity.styles.css
 C:\Users\d_dia\source\repos\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.TagHelpers.input.cache
 C:\Users\d_dia\source\repos\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.TagHelpers.output.cache
@@ -150,3 +148,5 @@ C:\Users\d_dia\source\repos\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Stude
 C:\Users\d_dia\source\repos\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Students\Details.cshtml.g.cs
 C:\Users\d_dia\source\repos\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Students\Edit.cshtml.g.cs
 C:\Users\d_dia\source\repos\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Students\Index.cshtml.g.cs
+C:\Users\d_dia\source\repos\ContosoUniversity\bin\Debug\net5.0\ContosoUniversity.StaticWebAssets.xml
+C:\Users\d_dia\source\repos\ContosoUniversity\obj\Debug\net5.0\refint\ContosoUniversity.dll
